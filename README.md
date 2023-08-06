@@ -45,5 +45,8 @@ To follow along on your own machine, you can clone this repository by doing
 
 	git clone https://github.com/justinbois/learnbayes-livecode.git
 
-in the appropriate directory, or you can [download it](https://github.com/justinbois/learnbayes-livecode/archive/refs/heads/main.zip). 
+in the appropriate directory, or you can [download it](https://github.com/justinbois/learnbayes-livecode/archive/refs/heads/main.zip).
 
+## Testing your setup
+
+You can test the setup on your machine by running the [test_setup.ipynb notebook](https://github.com/justinbois/learnbayes-livecode/blob/main/test_setup.ipynb) that is included in this repository. You can also make sure Colab is working by [running the test_setup.ipynb notebook with Colab](https://colab.research.google.com/github/justinbois/learnbayes-livecode/blob/main/test_setup.ipynb).
