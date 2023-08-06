@@ -54,6 +54,7 @@ dependencies:
     - blackcellmagic
     - cmdstanpy
     - commonmark
+    - h5pyd
     - iqplot
     - jupyter-cache
     - jupyterlab
